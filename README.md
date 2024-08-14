@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm AMIT KUMAR</h1>
 <div align="center"> <img src="https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif"width="900"></div>
 <h3 align="center">A passionate full stack web developer from India.</h3>
-<img align="right"width="400"Alt="coding" src="https://github.com/user-attachments/assets/200188e5-7ae5-4f80-8820-2cc59c626843"
+<img align="right"width="700"Alt="coding" src="https://github.com/user-attachments/assets/200188e5-7ae5-4f80-8820-2cc59c626843"
 >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techhackontime999&label=Profile%20views&color=0e75b6&style=flat" alt="techhackontime999" /> </p>
 
