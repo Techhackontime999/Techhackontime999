@@ -1,4 +1,4 @@
-[![MasterHead] (https://images.app.goo.gl/w2pDBVkGzA46Z74CA)][(https://rishavchanda.io)](https://www.shutterstock.com/search/full-stack-developer-background)
+[![MasterHead] (https://images.app.goo.gl/w2pDBVkGzA46Z74CA)][(https://www.shutterstock.com/search/full-stack-developer-background)]
 <h1 align="center">Hi 👋, I'm AMIT KUMAR</h1>
 <h3 align="center">A passionate full stack web developer from India.</h3>
 
