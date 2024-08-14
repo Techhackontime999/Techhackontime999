@@ -1,15 +1,24 @@
 <h1 align="center">Hi 👋, I'm AMIT KUMAR</h1>
 <div align="center"> <img src="https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif"width="900"></div>
 <h3 align="center">A passionate full stack web developer from India.</h3>
-<img align="right"width="400"Alt="coding" src="https://github.com/user-attachments/assets/200188e5-7ae5-4f80-8820-2cc59c626843"
->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=techhackontime999&label=Profile%20views&color=0e75b6&style=flat" alt="techhackontime999" /> </p>
+<img align="right" width="400" height="300" Alt="coding" src="https://github.com/user-attachments/assets/200188e5-7ae5-4f80-8820-2cc59c626843">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=techhackontime999" alt="techhackontime999" /></a> </p>
+
+<br><br><br>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=techhackontime999&label=Profile%20views&color=0e75b6&style=flat" alt="techhackontime999" /> </p>
 
 - 🌱 I’m currently learning **Python for data science**
 
 - 📫 How to reach me **amitkumarkh01012006@gmail.com**
+
+
+
+<br><br><br><br>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=techhackontime999" alt="techhackontime999" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,9 +31,13 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/techhackontime999"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="techhackontime999" /></a><a href="https://ko-fi.com/techhackontime999"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="techhackontime999" /></a></p><br><br>
+<br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=techhackontime999&show_icons=true&locale=en&layout=compact" alt="techhackontime999" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=techhackontime999&show_icons=true&locale=en" alt="techhackontime999" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=techhackontime999&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" style="display: inline-block;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=techhackontime999&show_icons=true&locale=en" alt="GitHub Stats" style="display: inline-block;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=techhackontime999&" alt="GitHub Streak" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=techhackontime999&" alt="techhackontime999" /></p>
+
