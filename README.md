@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm AMIT KUMAR</h1>
-<div align="center"> <img src="https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif"width="400"></div>
+<div align="center"> <img src="https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif"width="800"></div>
 <h3 align="center">A passionate full stack web developer from India.</h3>
 <img align="right"width="400"Alt="coding" src="https://github.com/user-attachments/assets/200188e5-7ae5-4f80-8820-2cc59c626843"
 >
