@@ -1,4 +1,4 @@
-[![MasterHead] (https://1.bp.blogspot.com/-7A4WynwLsM... )](https://rishavchanda.io)
+[![MasterHead] (https://images.app.goo.gl/w2pDBVkGzA46Z74CA)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm AMIT KUMAR</h1>
 <h3 align="center">A passionate full stack web developer from India.</h3>
 
