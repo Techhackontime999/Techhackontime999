@@ -1,5 +1,5 @@
-<div align="center"> <img src="https://github.com/jaiswaladi246/jaiswaladi246/blob/main/Youtube%20Channel%20Banner.png"> </div>
 <h1 align="center">Hi 👋, I'm AMIT KUMAR</h1>
+<div align="center"> <img src="https://github.com/jaiswaladi246/jaiswaladi246/blob/main/Youtube%20Channel%20Banner.png"> </div>
 <h3 align="center">A passionate full stack web developer from India.</h3>
 <img align="right"width="400"Alt="coding" src="https://github.com/user-attachments/assets/200188e5-7ae5-4f80-8820-2cc59c626843"
 >
