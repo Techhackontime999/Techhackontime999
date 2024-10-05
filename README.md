@@ -12,7 +12,13 @@
 - 🌱 I’m currently learning **Python for data science**
 
 - 📫 How to reach me **amitkumarkh01012006@gmail.com**
-
+- <h4>some websites created by me</h4>
+<ul>
+  <li>https://khabaitech.github.io/KTI033/#dd</li>
+  <li>https://techhackportfolio.netlify.app/</li>
+  <li>https://gpp7gulzarbaghcsedept.netlify.app/</li>
+  <li>now i created !</li>
+</ul>
 
 
 <br><br><br><br>
