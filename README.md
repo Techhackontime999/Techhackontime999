@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm AMIT KUMAR</h1>
 <div align="center"> <img src="https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif"width="900"></div>
 <h3 align="center">A passionate full stack web developer from India.</h3>
+<p align="center"> <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDdsMXBzajVvanYyNmVnNjR4dDFucno0aXlxaWowYndpcTZxeDV2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0IyeheChYxx2byDu/giphy.gif" alt="techhackontime999" /> </p>
 <img align="right" width="400" height="300" Alt="coding" src="https://github.com/user-attachments/assets/200188e5-7ae5-4f80-8820-2cc59c626843">
 
 
 <br><br><br>
 
 
-<p align="center"> <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDdsMXBzajVvanYyNmVnNjR4dDFucno0aXlxaWowYndpcTZxeDV2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0IyeheChYxx2byDu/giphy.gif" alt="techhackontime999" /> </p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techhackontime999&label=Profile%20views&color=0e75b6&style=flat" alt="techhackontime999" /> </p>
 
