@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm AMIT KUMAR</h1>
-<div align="center"> <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDdsMXBzajVvanYyNmVnNjR4dDFucno0aXlxaWowYndpcTZxeDV2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0IyeheChYxx2byDu/giphy.gif"width="800" alt="techhackontime999" /> </div>
+<div align="center"> <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDdsMXBzajVvanYyNmVnNjR4dDFucno0aXlxaWowYndpcTZxeDV2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0IyeheChYxx2byDu/giphy.gif"width="900" alt="techhackontime999" /> </div>
 <br><br><br>
 <h3 align="center">A passionate full stack web developer from India.</h3>
 
