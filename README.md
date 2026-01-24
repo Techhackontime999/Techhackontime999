@@ -6,6 +6,7 @@
 
 <br><br><br>
 
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=techhackontime999&label=Profile%20views&color=0e75b6&style=flat](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDdsMXBzajVvanYyNmVnNjR4dDFucno0aXlxaWowYndpcTZxeDV2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0IyeheChYxx2byDu/giphy.gif)" alt="techhackontime999" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techhackontime999&label=Profile%20views&color=0e75b6&style=flat" alt="techhackontime999" /> </p>
 
