@@ -66,8 +66,9 @@
 ✔ Scalable Deployment Ready  
 
 🎥 **Demo Video:**  
-<a href="https://dms.licdn.com/playlist/vid/v2/D5605AQEVyizYKBg7LA/mp4-720p-30fp-crf28/B56Zw9onm4JQCI-/0/1770560624195?e=1772985600&v=beta&t=HpOPCr0V6GnWI-52JJXWVxEi1kI2p_YydpqHGeg_eiI" target="_blank">
-▶ Watch Project Demo
+<br>
+<a href="https://www.linkedin.com/posts/mr-amit-kumar-bb8088296_day15-buildinpublic-django-activity-7426269570849513472-iN7D?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEeO5LwBhtIyKEwjkpTvuw-f2H2_NmbkDxE" target="_blank">
+  <img src="https://img.shields.io/badge/Watch-Demo%20Video-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
 ---
@@ -88,8 +89,9 @@
 ✔ Queue Elimination Model  
 
 🎥 **Demo Video:**  
+<br>
 <a href="https://www.linkedin.com/posts/mr-amit-kumar-bb8088296_this-is-my-hospital-patent-management-system-activity-7404671045393170432--C6y?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEeO5LwBhtIyKEwjkpTvuw-f2H2_NmbkDxE" target="_blank">
-▶ Watch Project Demo
+  <img src="https://img.shields.io/badge/Watch-Demo%20Video-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
 ---
