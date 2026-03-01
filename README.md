@@ -49,6 +49,7 @@
 - 💬 Ask me about: **Python, Django, APIs, Databases, Backend Logic**
 - 🎯 Goal: Build Tech Products that solve real-world rural & scalable problems
 - 📫 Reach me at: **amitkumarkh01012006@gmail.com**
+- 📫 Another mail: **mrtechhackontime999@gmail.com**
 
 <hr>
 
