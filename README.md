@@ -18,7 +18,7 @@
 <div style="display: flex; align-items: center;">
 <div style="margin: 10px;">
 <a href="https://github.com/Techhackontime999">
-<img src="https://komarev.com/ghpvc/?username=techhackontime999&label=Profile%20views&color=00FF00&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=Techhackontime999&label=Profile%20views&color=00FF00&style=flat" />
 </a>
 <a href="https://github.com/Techhackontime999?tab=followers">
 <img src="https://img.shields.io/github/followers/techhackontime999?label=Follow&style=social" />
