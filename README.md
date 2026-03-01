@@ -29,7 +29,7 @@
 </a>
 <a href="https://www.youtube.com/@Techhackontime999">
   <img src="https://cdn.simpleicons.org/youtube/FF0000" 
-       alt="YouTube" width="25" height="25"/>
+       alt="YouTube" width="20" height="20"/>
 </a>
   <a href="https://www.instagram.com/techhackontime999/" target="_blank">
   <img src="https://cdn.simpleicons.org/instagram" 
