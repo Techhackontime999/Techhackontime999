@@ -27,6 +27,10 @@
 <a href="https://leetcode.com/mramit">
 <img src="https://img.shields.io/badge/LeetCode-Profile-yellow?style=social&logo=leetcode" />
 </a>
+  <a href="https://www.youtube.com/@Techhackontime999" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" 
+       alt="YouTube" width="40" height="40"/>
+</a>
 </div>
 </div>
 
