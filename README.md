@@ -9,7 +9,7 @@
 
 <div style="flex-grow: 2;">
 <br>
-<h3>My Name is Amit Kumar | Full Stack Developer | Backend & System Design Enthusiast | Founder Mindset | TechHackOnTime</h3>
+<h3>My Name is Mr. Amit Kumar -> Techhackontime999 | Aspiring SDE • Full-Stack Developer • Idea-to-Product Builder • Backend & System Design Enthusiast • B.Tech CSE • Future Tech Founder </h3>
 </div>
 </div>
 
