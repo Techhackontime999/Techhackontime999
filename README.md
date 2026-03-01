@@ -104,9 +104,9 @@
 ✔ Scalable Deployment Ready  
 
 🎥 **Demo Video:**  
-👉 Demo Link Here
-<a href="https://dms.licdn.com/playlist/vid/v2/D5605AQEVyizYKBg7LA/mp4-720p-30fp-crf28/B56Zw9onm4JQCI-/0/1770560624195?e=1772985600&v=beta&t=HpOPCr0V6GnWI-52JJXWVxEi1kI2p_YydpqHGeg_eiI">
----
+<a href="https://dms.licdn.com/playlist/vid/v2/D5605AQEVyizYKBg7LA/mp4-720p-30fp-crf28/B56Zw9onm4JQCI-/0/1770560624195?e=1772985600&v=beta&t=HpOPCr0V6GnWI-52JJXWVxEi1kI2p_YydpqHGeg_eiI" target="_blank">
+▶ Watch Project Demo
+</a>
 
 <hr>
 
