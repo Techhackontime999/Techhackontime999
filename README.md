@@ -9,7 +9,7 @@
 
 <div style="flex-grow: 2;">
 <br>
-<h3>My Name is Mr. Amit Kumar -> Techhackontime999 • Aspiring SDE • Full-Stack Developer • Idea-to-Product Builder • Backend & System Design Enthusiast • B.Tech CSE • Future Tech Founder </h3>
+<h3>I Mr.Amit Kumar -> Techhackontime999 • Aspiring SDE • Full-Stack Developer • Idea-to-Product Builder • Backend & System Design Enthusiast • B.Tech CSE • Future Tech Founder </h3>
 </div>
 </div>
 
@@ -104,8 +104,8 @@
 ✔ Scalable Deployment Ready  
 
 🎥 **Demo Video:**  
-👉 Add Your LinkedIn Demo Link Here
-
+👉 Demo Link Here
+<a href="https://dms.licdn.com/playlist/vid/v2/D5605AQEVyizYKBg7LA/mp4-720p-30fp-crf28/B56Zw9onm4JQCI-/0/1770560624195?e=1772985600&v=beta&t=HpOPCr0V6GnWI-52JJXWVxEi1kI2p_YydpqHGeg_eiI">
 ---
 
 <hr>
@@ -151,5 +151,5 @@
 <hr>
 
 <footer style="text-align: center; padding: 20px;">
-<p>© 2026 Amit Kumar | TechHackOnTime | Building Scalable Systems 🚀</p>
+<p>© 2026 Mr.Amit Kumar | TechHackOnTime999 | Building Scalable Systems 🚀</p>
 </footer>
