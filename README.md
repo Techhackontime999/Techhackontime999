@@ -171,11 +171,7 @@ You can contribute in:
 
 ---
 
-## 🔗 GitHub Repository
 
-```
-https://lnkd.in/gu6-eb3a
-```
 
 ---
 
@@ -184,7 +180,11 @@ Building LinkUp taught me how real social platforms are engineered — from data
 Still learning.  
 Still building.  
 Still shipping. 🚀
+## 🔗 GitHub Repository
 
+```
+https://lnkd.in/gu6-eb3a
+```
 🎥 **Demo Video:**  
 <br>
 <a href="https://www.linkedin.com/posts/mr-amit-kumar-bb8088296_day15-buildinpublic-django-activity-7426269570849513472-iN7D?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEeO5LwBhtIyKEwjkpTvuw-f2H2_NmbkDxE" target="_blank">
