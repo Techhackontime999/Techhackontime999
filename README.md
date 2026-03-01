@@ -428,5 +428,5 @@ https://lnkd.in/gu6-eb3a
 <hr>
 
 <footer style="text-align: center; padding: 20px;">
-<p>© 2026 Mr.Amit Kumar | TechHackOnTime999 | Building Scalable Systems 🚀</p>
+<p>© 2026 Mr. Amit Kumar | Techhackontime999 | Building Scalable Systems 🚀</p>
 </footer>
