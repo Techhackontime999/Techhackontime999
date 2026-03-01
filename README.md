@@ -35,6 +35,10 @@
   <img src="https://cdn.simpleicons.org/instagram" 
        alt="Instagram" width="25" height="25"/>
 </a>
+  <a href="https://www.facebook.com/profile.php?id=61559725537190" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" 
+       alt="Facebook" width="25" height="25"/>
+</a>
 </div>
 </div>
 
