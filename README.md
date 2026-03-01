@@ -23,9 +23,7 @@
 <a href="https://github.com/Techhackontime999?tab=followers">
 <img src="https://img.shields.io/github/followers/techhackontime999?label=Follow&style=social" />
 </a>
-<a href="[https://www.linkedin.com/in/amit-kumar-bb808829](https://www.linkedin.com/in/mr-amit-kumar-bb8088296/)">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mr-amit-kumar-bb8088296)
 <a href="https://leetcode.com/mramit">
 <img src="https://img.shields.io/badge/LeetCode-Profile-yellow?style=social&logo=leetcode" />
 </a>
