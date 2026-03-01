@@ -1,55 +1,177 @@
-<h1 align="center">Hi 👋, I'm AMIT KUMAR</h1>
-<div align="center"> <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDdsMXBzajVvanYyNmVnNjR4dDFucno0aXlxaWowYndpcTZxeDV2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0IyeheChYxx2byDu/giphy.gif"width="900" alt="techhackontime999" /> </div>
-<br>
-<h3 align="center">A passionate full stack web developer from India.</h3>
-
-<div align="center"> <img src="https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif"width="900"></div>
-<br><br>
-<img align="right" width="400" height="300" Alt="coding" src="https://github.com/user-attachments/assets/200188e5-7ae5-4f80-8820-2cc59c626843">
-
-
-<br><br><br>
-
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=techhackontime999&label=Profile%20views&color=0e75b6&style=flat" alt="techhackontime999" /> </p>
-
-- 🌱 I’m currently learning **Python for data science**
-
-- 📫 How to reach me **amitkumarkh01012006@gmail.com**
-- <h4>some websites created by me</h4>
-<ul>
-  <li>https://khabaitech.github.io/KTI033/#dd</li>
-  <li>https://techhackportfolio.netlify.app/</li>
-  <li>https://gpp7gulzarbaghcsedept.netlify.app/</li>
-  <li>now i created !</li>
-</ul>
-
-
-<br><br><br><br>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=techhackontime999" alt="techhackontime999" /></a> </p>
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/amit-kumar-bb8088296" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amit-kumar-bb8088296" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mramit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mramit" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/techhackontime999"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="techhackontime999" /></a><a href="https://ko-fi.com/techhackontime999"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="techhackontime999" /></a></p><br><br>
-<br><br>
-
+<h1 align="center">Hi 👋, I'm Amit Kumar</h1>
+<h3 align="center">Full Stack Developer | System Designer | Problem Solver | TechHackOnTime</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=techhackontime999&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" style="display: inline-block;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=techhackontime999&show_icons=true&locale=en" alt="GitHub Stats" style="display: inline-block;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=techhackontime999&" alt="GitHub Streak" />
+  <a href="https://github.com/Techhackontime999">
+    <img src="https://komarev.com/ghpvc/?username=techhackontime999&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
 </p>
 
+---
 
+## 🚀 About Me
+
+I am a passionate Full Stack Developer from India 🇮🇳 focused on building **real-world scalable systems**, not just projects.
+
+- 🔭 Currently building **production-ready software systems**
+- 🧠 Strong interest in **System Design, Backend Architecture & AI-powered applications**
+- 💡 I believe in solving real problems using technology
+- 🎯 Mission: Build impactful tech products that serve society
+
+---
+
+## 🏗️ Featured Projects (Professional Work)
+
+### 🏥 1️⃣ DrServe – Smart Hospital Management System  
+> End-to-End Automated Patient Appointment & Allocation System
+
+**Tech Stack:** Python, Django, SQLite, HTML, CSS, JavaScript  
+
+**Key Features:**
+- Aadhaar QR Code Scanner Integration
+- NLP-based Disease Understanding System
+- Automatic Doctor Allocation
+- Appointment Scheduling
+- Receipt Generation System
+- Queue Elimination Model
+- Microphone-based Voice Input System
+
+**Architecture Thinking:**
+- Backend API-driven system
+- Local database integration
+- Modular scanning and NLP pipeline
+- Designed for rural hospital infrastructure
+
+📌 Demo & Explanation: (Check my LinkedIn posts)  
+https://www.linkedin.com/in/amit-kumar-bb8088296/
+
+---
+
+### 🤖 2️⃣ Krishna – Next Generation Desktop AI Assistant  
+
+> A Personal Intelligent Desktop Companion
+
+**Tech Stack:** Python, NLP, System Monitoring Modules  
+
+**Capabilities:**
+- Human detection & greeting
+- Multilingual interaction
+- System monitoring
+- Error detection assistant
+- Voice interaction pipeline
+- Modular AI architecture
+
+**Vision:**
+To transform Krishna into a SaaS-based AI desktop companion.
+
+---
+
+### 📝 3️⃣ Full Examination System (Python Based)
+
+> Secure & Automated Exam Management Platform
+
+**Features:**
+- Student authentication
+- Question management system
+- Result generation
+- Scalable backend logic
+- Future SaaS deployment plan
+
+---
+
+### 🏫 4️⃣ Low-Cost Education Infrastructure Model
+
+> Designed blueprint for a ₹100/month scalable rural school system
+
+- Sustainable fee model
+- 1000 student scalability plan
+- Infrastructure cost modeling
+- Education ecosystem analysis
+
+---
+
+### 🌐 5️⃣ Web Development Projects
+
+- Portfolio Website  
+  https://techhackportfolio.netlify.app/
+
+- Department Website  
+  https://gpp7gulzarbaghcsedept.netlify.app/
+
+- Khabai Tech Project  
+  https://khabaitech.github.io/KTI033/#dd
+
+---
+
+## 🧠 Technical Skills
+
+### 💻 Languages
+- Python
+- C
+- PHP
+- JavaScript
+
+### 🌐 Frontend
+- HTML5
+- CSS3
+- Bootstrap
+
+### 🗄️ Backend
+- Django
+- REST API Development
+- SQLite
+- MySQL
+- MongoDB
+
+### ⚙️ Tools
+- Git
+- GitHub
+- Linux (Ubuntu)
+- Virtual Environments
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=techhackontime999&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=techhackontime999&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 Achievements & Growth
+
+- Competitive Programming Enthusiast
+- Consistent System Building Mindset
+- Active Technical Content Creator on LinkedIn
+- Strong focus on Backend Architecture
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/amit-kumar-bb8088296
+- LeetCode: https://leetcode.com/mramit
+- GitHub: https://github.com/Techhackontime999
+- Email: amitkumarkh01012006@gmail.com
+
+---
+
+## 💡 Philosophy
+
+> “Don’t just write code. Design systems.  
+> Don’t just build projects. Build impact.”  
+
+---
+
+## ☕ Support My Work
+
+If you like my work, you can support me:
+
+- https://www.buymeacoffee.com/techhackontime999
+- https://ko-fi.com/techhackontime999
+
+---
+
+⭐ From [TechHackOnTime999](https://github.com/Techhackontime999)
