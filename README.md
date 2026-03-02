@@ -47,7 +47,7 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Techhackontime999&theme=transparent" width="820" />
 
 <hr>
-
+<br>
 ## 🧠 About Me
 
 <img align="right" alt="Coding" width="400" src="gif.gif">
@@ -59,8 +59,8 @@
 - 📫 Reach me at: **amitkumarkh01012006@gmail.com**
 - 📫 Another mail: **mrtechhackontime999@gmail.com**
 
+<br>
 <hr>
-
 # 🏆 Core Projects
 
 ---
