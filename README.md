@@ -50,7 +50,7 @@
 
 ## 🧠 About Me
 
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHZiNWQzNWNkZTUwazY5bjVubHB3Yjgyczk1MG4xbWJvcTF5aTVwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ML15sUZFNyMy0Yv55m/giphy.gif">
+<img align="right" alt="Coding" width="400" src="gif.gif">
 
 - 🔭 Currently Building: **Production-Level Backend Systems**
 - 🌱 Learning: **Advanced System Design & Scalable Architecture**
