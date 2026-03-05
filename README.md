@@ -9,7 +9,7 @@
 
 <div style="flex-grow: 2;">
 <br>
-<h3>Hey me Mr.Amit Kumar -> Techhackontime999 • Aspiring SDE • Full-Stack Developer • Idea-to-Product Builder • Backend & System Design Enthusiast • B.Tech CSE • Future Tech Founder </h3>
+<h3>Hii Mr.Amit Kumar is here -> Techhackontime999 • Aspiring SDE • Full-Stack Developer • Idea-to-Product Builder • Backend & System Design Enthusiast • B.Tech CSE • Future Tech Founder </h3>
 </div>
 </div>
 
