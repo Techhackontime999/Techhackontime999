@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/github/followers/techhackontime999?label=Follow&style=social" />
 </a>
 <a href="https://www.linkedin.com/in/mr-amit-kumar-bb8088296"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin" /> </a>
-<a href="https://leetcode.com/mramit">
+<a href="https://leetcode.com/u/techhackontime999/">
 <img src="https://img.shields.io/badge/LeetCode-Profile-yellow?style=social&logo=leetcode" />
 </a>
 <a href="https://www.youtube.com/@Techhackontime999">
