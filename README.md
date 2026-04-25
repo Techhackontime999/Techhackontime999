@@ -39,6 +39,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" 
        alt="Facebook" width="25" height="25"/>
 </a>
+  <a href="https://x.com/Techhackontime/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin" /> </a>
+<a href="https://x.com/Techhackontime/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-yellow?style=social&logo=leetcode" />
+</a>
 </div>
 </div>
 
