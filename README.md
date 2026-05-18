@@ -34,6 +34,9 @@
   <a href="https://leetcode.com/u/techhackontime999/">
     <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
   </a>
+   <a href="https://codeforces.com/profile/Techhackontime999">
+    <img src="https://img.shields.io/badge/Codeforces-Profile-blue?style=for-the-badge&logo=codeforces" />
+  </a>
 <br><br>
   <a href="https://www.youtube.com/@Techhackontime999">
     <img src="https://cdn.simpleicons.org/youtube/FF0000" 
