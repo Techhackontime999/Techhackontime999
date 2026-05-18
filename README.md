@@ -15,35 +15,48 @@
 
 <br>
 
-<div style="display: flex; align-items: center;">
-<div style="margin: 10px;">
-<a href="https://github.com/Techhackontime999">
-<img src="https://komarev.com/ghpvc/?username=Techhackontime999&label=Profile%20views&color=00FF00&style=flat" />
-</a>
-<a href="https://github.com/Techhackontime999?tab=followers">
-<img src="https://img.shields.io/github/followers/techhackontime999?label=Follow&style=social" />
-</a>
-<a href="https://www.linkedin.com/in/mr-amit-kumar-bb8088296"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin" /> </a>
-<a href="https://leetcode.com/u/techhackontime999/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-yellow?style=social&logo=leetcode" />
-</a>
-<a href="https://www.youtube.com/@Techhackontime999">
-  <img src="https://cdn.simpleicons.org/youtube/FF0000" 
-       alt="YouTube" width="20" height="20"/>
-</a>
-  <a href="https://www.instagram.com/techhackontime999/" target="_blank">
-  <img src="https://cdn.simpleicons.org/instagram" 
-       alt="Instagram" width="25" height="25"/>
-</a>
-  <a href="https://www.facebook.com/profile.php?id=61559725537190" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" 
-       alt="Facebook" width="25" height="25"/>
-</a>
+<div align="center">
 
-<a href="https://x.com/Techhackontime/">
-<div dir="ltr" class="css-146c3p1 r-qvutc0 r-37j5jr r-q4m81j r-a023e6 r-rjixqe r-b88u0q r-1awozwy r-6koalj r-18u37iz r-16y2uox r-bcqeeo r-1777fci" style="color: rgb(239, 243, 244);"><svg viewBox="0 0 24 24" aria-hidden="true" class="r-4qtqp9 r-yyyyoo r-dnmrzs r-bnwqim r-lrvibr r-m6rgpd r-lrsllp r-1nao33i r-16y2uox r-8kz0gk"><g><path d="M21.742 21.75l-7.563-11.179 7.056-8.321h-2.456l-5.691 6.714-4.54-6.714H2.359l7.29 10.776L2.25 21.75h2.456l6.035-7.118 4.818 7.118h6.191-.008zM7.739 3.818L18.81 20.182h-2.447L5.29 3.818h2.447z"></path></g></svg><div class="css-175oi2r r-xoduu5"><span class="css-1jxf684 r-dnmrzs r-1udh08x r-1udbk01 r-3s2u2q r-bcqeeo r-1ttztb7 r-qvutc0 r-poiln3 r-1inkyih r-rjixqe"></span></div></div>
-</a>
-</div>
+  <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 10px;">
+
+  <a href="https://github.com/Techhackontime999">
+    <img src="https://komarev.com/ghpvc/?username=Techhackontime999&label=Profile%20Views&color=00FF00&style=for-the-badge" />
+  </a>
+
+  <a href="https://github.com/Techhackontime999?tab=followers">
+    <img src="https://img.shields.io/github/followers/techhackontime999?label=Followers&style=for-the-badge" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/mr-amit-kumar-bb8088296">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+
+  <a href="https://leetcode.com/u/techhackontime999/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
+  </a>
+
+  <a href="https://www.youtube.com/@Techhackontime999">
+    <img src="https://cdn.simpleicons.org/youtube/FF0000" 
+         alt="YouTube" width="32" height="32"/>
+  </a>
+
+  <a href="https://www.instagram.com/techhackontime999/" target="_blank">
+    <img src="https://cdn.simpleicons.org/instagram" 
+         alt="Instagram" width="32" height="32"/>
+  </a>
+
+  <a href="https://www.facebook.com/profile.php?id=61559725537190" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" 
+         alt="Facebook" width="32" height="32"/>
+  </a>
+
+  <a href="https://x.com/Techhackontime/">
+    <img src="https://cdn.simpleicons.org/x/ffffff"
+         alt="X (Twitter)" width="32" height="32"/>
+  </a>
+
+  </div>
+
 </div>
 
 <hr>
@@ -52,6 +65,7 @@
 
 <hr>
 <br>
+
 ## 🧠 About Me
 
 <img align="right" alt="Coding" width="400" src="gif.gif">
