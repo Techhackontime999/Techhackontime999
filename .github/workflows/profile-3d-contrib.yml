@@ -4,6 +4,8 @@ on:
   schedule:
     - cron: "20 2 * * *"
   workflow_dispatch:
+  push:
+    branches: [main, testing]
 
 permissions:
   contents: write
