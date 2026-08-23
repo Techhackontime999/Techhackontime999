@@ -467,6 +467,14 @@ If you're building something meaningful — let's build together.
 
 <br>
 
+<img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="300" alt="Developer at work"/>
+
+</div>
+
+<div align="center">
+
+<br>
+
 <a href="https://www.linkedin.com/in/mr-amit-kumar-bb8088296">
   <img src="https://img.shields.io/badge/LET'S_BUILD_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
 </a>
@@ -500,8 +508,6 @@ If you're building something meaningful — let's build together.
    · Stats/streak/graph ... live services; they update themselves
  ASSETS IN THIS REPO
    · profile_picture.jpg ... avatar shown in ABOUT
-   · profile_picture.jpeg .. alternate headshot (kept for future use)
-   · profile_picture01.jpg . alternate headshot (kept for future use)
    · gif.gif ............... coding loop shown in ABOUT
    · banner_image.png ...... hero banner (revert URL kept in the HERO comment)
    · resume.pdf ............ one-click download in RESUME & BUSINESS CARD
