@@ -477,6 +477,9 @@ If you're building something meaningful — let's build together.
 
 <br>
 
+<a href="https://github.com/sponsors/Techhackontime999">
+  <img src="https://img.shields.io/badge/SUPPORT_MY_WORK-GitHub_Sponsors-10b981?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Support via GitHub Sponsors"/>
+</a>
 <a href="https://www.linkedin.com/in/mr-amit-kumar-bb8088296">
   <img src="https://img.shields.io/badge/LET'S_BUILD_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
 </a>
