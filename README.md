@@ -150,19 +150,21 @@
 
 ## RESUME & BUSINESS CARD
 
+<!-- DOWNLOADS — absolute raw URLs bypass github.com's SPA router (the ?raw=true
+     suffix triggers "An unexpected error occurred" on soft navigation).
+     ON MERGE TO MAIN: swap /testing/ -> /main/ in the three hrefs below. -->
 <div align="center">
 
-<!-- Relative links with ?raw=true trigger direct downloads and work on any branch -->
-<a href="resume.pdf?raw=true">
+<a href="https://raw.githubusercontent.com/Techhackontime999/Techhackontime999/testing/resume.pdf">
   <img src="https://img.shields.io/badge/DOWNLOAD_RESUME-PDF-10b981?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download resume PDF"/>
 </a>
-<a href="business_card.png?raw=true">
+<a href="https://raw.githubusercontent.com/Techhackontime999/Techhackontime999/testing/business_card.png">
   <img src="https://img.shields.io/badge/DOWNLOAD_BUSINESS_CARD-PNG-134e4a?style=for-the-badge" alt="Download business card"/>
 </a>
 
 <br><br>
 
-<a href="business_card.png?raw=true">
+<a href="https://raw.githubusercontent.com/Techhackontime999/Techhackontime999/testing/business_card.png">
   <img src="business_card.png" width="420" alt="Amit Kumar — business card"/>
 </a>
 
