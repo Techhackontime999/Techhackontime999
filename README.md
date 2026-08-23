@@ -76,7 +76,7 @@
 <a href="https://neural-aurora.vercel.app" target="_blank">
 
 <img
-src="https://image.thum.io/get/width/1400/crop/900/https://neural-aurora.vercel.app"
+src="https://image.thum.io/get/width/1400/crop/900/portfolio_image.png"
 width="95%"
 alt="Neural Aurora Portfolio Preview"
 />
