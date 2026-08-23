@@ -21,8 +21,10 @@
 
 <div align="center">
 
-<a href="https://github.com/Techhackontime999">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=240&color=0:09090b,50:0f172a,100:134e4a&text=AMIT%20KUMAR&fontSize=60&fontColor=e2e8f0&fontAlignY=45&desc=CO-TECHNICAL%20LEAD%20%40%20AWS%20SBG%20%C2%B7%20GEC%20BUXAR%20%C2%B7%20FOUNDER%20%E2%80%94%20SHOP-SEED%20%C2%B7%20NEURAL%20AURORA%20%C2%B7%20LINKUP&descSize=13&descAlignY=70&animation=fadeIn&font=Outfit" width="100%" alt="Amit Kumar — 3D banner"/>
+<!-- HERO BANNER — custom asset. To revert to the generated 3D capsule, paste:
+     https://capsule-render.vercel.app/api?type=cylinder&height=240&color=0:09090b,50:0f172a,100:134e4a&text=AMIT%20KUMAR&fontSize=60&fontColor=e2e8f0&fontAlignY=45&desc=CO-TECHNICAL%20LEAD%20%40%20AWS%20SBG%20%C2%B7%20GEC%20BUXAR%20%C2%B7%20FOUNDER%20%E2%80%94%20SHOP-SEED%20%C2%B7%20NEURAL%20AURORA%20%C2%B7%20LINKUP&descSize=13&descAlignY=70&animation=fadeIn&font=Outfit -->
+<a href="https://neural-aurora.vercel.app">
+  <img src="banner_image.png" width="100%" alt="Amit Kumar — banner"/>
 </a>
 
 <br>
@@ -140,6 +142,28 @@
 
 <a href="https://neural-aurora.vercel.app">
   <img src="https://img.shields.io/badge/%F0%9F%9A%80%20OPEN%20FULL%20PORTFOLIO-10b981?style=for-the-badge" alt="Open full portfolio"/>
+</a>
+
+</div>
+
+---
+
+## RESUME & BUSINESS CARD
+
+<div align="center">
+
+<!-- Relative links with ?raw=true trigger direct downloads and work on any branch -->
+<a href="resume.pdf?raw=true">
+  <img src="https://img.shields.io/badge/DOWNLOAD_RESUME-PDF-10b981?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download resume PDF"/>
+</a>
+<a href="business_card.png?raw=true">
+  <img src="https://img.shields.io/badge/DOWNLOAD_BUSINESS_CARD-PNG-134e4a?style=for-the-badge" alt="Download business card"/>
+</a>
+
+<br><br>
+
+<a href="business_card.png?raw=true">
+  <img src="business_card.png" width="420" alt="Amit Kumar — business card"/>
 </a>
 
 </div>
@@ -476,7 +500,13 @@ If you're building something meaningful — let's build together.
    · Stats/streak/graph ... live services; they update themselves
  ASSETS IN THIS REPO
    · profile_picture.jpg ... avatar shown in ABOUT
+   · profile_picture.jpeg .. alternate headshot (kept for future use)
+   · profile_picture01.jpg . alternate headshot (kept for future use)
    · gif.gif ............... coding loop shown in ABOUT
+   · banner_image.png ...... hero banner (revert URL kept in the HERO comment)
+   · resume.pdf ............ one-click download in RESUME & BUSINESS CARD
+   · business_card.png ..... card preview + download in same section
+   · portfolio_image.png ... Neural Aurora preview in MY PORTFOLIO
    · LGTM/ ................. reaction images for PR reviews (see bin/make_lgtm.sh
                              and bin/change-border.py to generate more)
  CLAIMS
