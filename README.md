@@ -69,6 +69,29 @@
 <hr>
 <br>
 
+## 🌐 My Portfolio
+
+<div align="center">
+
+<a href="https://neural-aurora.vercel.app" target="_blank">
+
+<img
+src="https://capsule-render.vercel.app/api?type=rect&height=140&color=0:020617,50:0f172a,100:312e81&text=NEURAL%20AURORA&fontSize=38&fontColor=ffffff&animation=fadeIn&desc=Explore%20my%20portfolio%2C%20projects%20%26%20work&descAlignY=72&descSize=16"
+width="95%"
+alt="Neural Aurora Portfolio"
+/>
+
+</a>
+
+<br>
+
+<a href="https://neural-aurora.vercel.app">
+<img src="https://img.shields.io/badge/🌐%20OPEN%20PORTFOLIO-6366F1?style=for-the-badge" alt="Open Portfolio"/>
+</a>
+
+</div>
+
+
 ## 🧠 About Me
 
 <img align="right" alt="Coding" width="400" src="gif.gif">
