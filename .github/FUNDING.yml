@@ -1,0 +1,9 @@
+# Sponsor button configuration — enables the "Sponsor" button across this repository.
+# To show it on ALL repositories, copy this file into each repo's .github/ folder,
+# or create a repository named ".github" containing this file to set an account default.
+github: [Techhackontime999]
+
+# Other platforms can be enabled by uncommenting below and adding your username:
+# ko-fi: yourusername
+# buy_me_a_coffee: yourusername
+# patreon: yourusername
