@@ -155,16 +155,16 @@
      ON MERGE TO MAIN: swap /testing/ -> /main/ in the three hrefs below. -->
 <div align="center">
 
-<a href="https://raw.githubusercontent.com/Techhackontime999/Techhackontime999/testing/resume.pdf">
+<a href="https://raw.githubusercontent.com/Techhackontime999/Techhackontime999/main/resume.pdf">
   <img src="https://img.shields.io/badge/DOWNLOAD_RESUME-PDF-10b981?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download resume PDF"/>
 </a>
-<a href="https://raw.githubusercontent.com/Techhackontime999/Techhackontime999/testing/business_card.png">
+<a href="https://raw.githubusercontent.com/Techhackontime999/Techhackontime999/main/business_card.png">
   <img src="https://img.shields.io/badge/DOWNLOAD_BUSINESS_CARD-PNG-134e4a?style=for-the-badge" alt="Download business card"/>
 </a>
 
 <br><br>
 
-<a href="https://raw.githubusercontent.com/Techhackontime999/Techhackontime999/testing/business_card.png">
+<a href="https://raw.githubusercontent.com/Techhackontime999/Techhackontime999/main/business_card.png">
   <img src="business_card.png" width="420" alt="Amit Kumar — business card"/>
 </a>
 
