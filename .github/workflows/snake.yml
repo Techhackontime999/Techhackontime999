@@ -5,7 +5,7 @@ on:
     - cron: "30 2 * * *"
   workflow_dispatch:
   push:
-    branches: [main]
+    branches: [main, testing]
 
 permissions:
   contents: write
