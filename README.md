@@ -22,7 +22,7 @@
 <div align="center">
 
 <a href="https://github.com/Techhackontime999">
-  <img src="https://capsule-render.vercel.app/api?type=venice&height=240&color=0:09090b,50:0f172a,100:134e4a&text=AMIT%20KUMAR&fontSize=72&fontColor=e2e8f0&fontAlignY=38&desc=CO-TECHNICAL%20LEAD%20%40%20AWS%20SBG%20%C2%B7%20GEC%20BUXAR%20%C2%B7%20FOUNDER%20%E2%80%94%20SHOP-SEED%20%C2%B7%20NEURAL%20AURORA%20%C2%B7%20LINKUP&descSize=13&descAlignY=60&animation=fadeIn&font=Outfit&stroke=34d399&strokeWidth=1" width="100%" alt="Amit Kumar — 3D banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=240&color=0:09090b,50:0f172a,100:134e4a&text=AMIT%20KUMAR&fontSize=60&fontColor=e2e8f0&fontAlignY=45&desc=CO-TECHNICAL%20LEAD%20%40%20AWS%20SBG%20%C2%B7%20GEC%20BUXAR%20%C2%B7%20FOUNDER%20%E2%80%94%20SHOP-SEED%20%C2%B7%20NEURAL%20AURORA%20%C2%B7%20LINKUP&descSize=13&descAlignY=70&animation=fadeIn&font=Outfit" width="100%" alt="Amit Kumar — 3D banner"/>
 </a>
 
 <br>
@@ -122,6 +122,24 @@
 </a>
 <a href="https://neural-aurora.vercel.app">
   <img src="https://img.shields.io/badge/PORTFOLIO-neural--aurora.vercel.app-10b981?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
+
+</div>
+
+---
+
+## MY PORTFOLIO
+
+<div align="center">
+
+<a href="https://neural-aurora.vercel.app" target="_blank">
+  <img src="portfolio_image.png" width="95%" alt="Neural Aurora Portfolio Preview"/>
+</a>
+
+<br><br>
+
+<a href="https://neural-aurora.vercel.app">
+  <img src="https://img.shields.io/badge/%F0%9F%9A%80%20OPEN%20FULL%20PORTFOLIO-10b981?style=for-the-badge" alt="Open full portfolio"/>
 </a>
 
 </div>
