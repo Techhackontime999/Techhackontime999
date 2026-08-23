@@ -76,17 +76,20 @@
 <a href="https://neural-aurora.vercel.app" target="_blank">
 
 <img
-src="https://capsule-render.vercel.app/api?type=rect&height=140&color=0:020617,50:0f172a,100:312e81&text=NEURAL%20AURORA&fontSize=38&fontColor=ffffff&animation=fadeIn&desc=Explore%20my%20portfolio%2C%20projects%20%26%20work&descAlignY=72&descSize=16"
+src="https://image.thum.io/get/width/1400/crop/900/https://neural-aurora.vercel.app"
 width="95%"
-alt="Neural Aurora Portfolio"
+alt="Neural Aurora Portfolio Preview"
 />
 
 </a>
 
-<br>
+<br><br>
 
 <a href="https://neural-aurora.vercel.app">
-<img src="https://img.shields.io/badge/🌐%20OPEN%20PORTFOLIO-6366F1?style=for-the-badge" alt="Open Portfolio"/>
+<img
+src="https://img.shields.io/badge/🚀%20OPEN%20FULL%20PORTFOLIO-6366F1?style=for-the-badge"
+alt="Open full portfolio"
+/>
 </a>
 
 </div>
