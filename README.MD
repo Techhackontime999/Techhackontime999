@@ -1,440 +1,450 @@
-<!--
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                         PROFILE README — TECHHACKONTIME999                 ║
-║                                                                            ║
-║  QUICK EDIT GUIDE                                                         ║
-║  1. Update the "PROFILE CONFIG" section below.                            ║
-║  2. Add/remove projects in "FEATURED PROJECTS".                           ║
-║  3. Keep the rest of the README mostly unchanged.                         ║
-║                                                                            ║
-║  This README is intentionally modular so it can evolve with your profile. ║
-╚══════════════════════════════════════════════════════════════════════════════╝
--->
-
-<!-- ========================= PROFILE CONFIG ========================== -->
-
-<div align="center">
-
-<a href="https://github.com/Techhackontime999">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:111827,100:1e3a8a&text=Mr.%20Amit%20Kumar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Backend%20Builder%20%7C%20Product%20Engineer&descAlignY=60&descSize=18" width="100%" alt="Amit Kumar profile banner"/>
-</a>
-
-<br>
-
-<a href="https://github.com/Techhackontime999">
-  <img src="https://komarev.com/ghpvc/?username=Techhackontime999&label=Profile%20Views&style=for-the-badge" alt="Profile views"/>
-</a>
-<a href="https://github.com/Techhackontime999?tab=followers">
-  <img src="https://img.shields.io/github/followers/Techhackontime999?style=for-the-badge&label=Followers" alt="GitHub followers"/>
-</a>
-<a href="https://github.com/Techhackontime999?tab=repositories">
-  <img src="https://img.shields.io/github/stars/Techhackontime999?affiliations=OWNER&style=for-the-badge&label=Stars" alt="GitHub stars"/>
-</a>
-
-</div>
-
----
-
-# 👋 Hi, I'm Amit Kumar
-
-> **I don't just write code — I turn ideas into working products.**
-
-I'm **Mr. Amit Kumar**, known online as **Techhackontime999** — a B.Tech CSE student, full-stack developer and product-focused builder interested in **backend engineering, scalable systems, APIs, system design and real-world problem solving**.
-
-I enjoy taking a problem from **idea → architecture → implementation → deployment → iteration**.
-
-### 🚀 Current Focus
-
-- 🧠 Building stronger foundations in **backend engineering & system design**
-- 🐍 Developing with **Python & Django**
-- 🗄️ Working with **databases, APIs, caching and real-time systems**
-- 🌐 Building **full-stack and production-oriented web applications**
-- 💡 Exploring **AI-powered products and practical automation**
-- 🏗️ Turning technical ideas into **usable products**
-
----
-
-## 🔗 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/Techhackontime999">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/mr-amit-kumar-bb8088296">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://leetcode.com/u/techhackontime999/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
-  <a href="https://codeforces.com/profile/Techhackontime999">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
-  </a>
-  <a href="https://www.youtube.com/@Techhackontime999">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-  <a href="https://x.com/Techhackontime">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-  </a>
-</p>
-
-<p align="center">
-  📧 <a href="mailto:amitkumarkh01012006@gmail.com">amitkumarkh01012006@gmail.com</a>
-  &nbsp; • &nbsp;
-  🌐 <a href="https://neural-aurora.vercel.app">Portfolio</a>
-</p>
-
----
-
-# 🧭 About Me
-
-<table>
-<tr>
-<td width="55%">
-
-### What I Build
-
-- 🔹 Full-stack web applications
-- 🔹 Backend systems & REST APIs
-- 🔹 Authentication & role-based systems
-- 🔹 Real-time features with WebSockets
-- 🔹 Database-driven applications
-- 🔹 E-commerce platforms
-- 🔹 Management systems
-- 🔹 AI-assisted products and experiments
-
-</td>
-<td width="45%">
-
-### Engineering Interests
-
-- 🏗️ Software Architecture
-- ⚙️ Scalable Backend Systems
-- 🔌 API Design
-- 🗃️ Database Design
-- ⚡ Performance & Caching
-- 🔐 Security & Permissions
-- ☁️ Deployment & Infrastructure
-- 🤖 AI + Software Engineering
-
-</td>
-</tr>
-</table>
-
----
-
-# 🛠️ Tech Stack
-
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,c,java&perline=8" alt="Languages"/>
-</p>
-
-### Backend & Frameworks
-
-<p>
-  <img src="https://skillicons.dev/icons?i=django,flask,nodejs,express&perline=8" alt="Backend technologies"/>
-</p>
-
-### Databases & Infrastructure
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite&perline=8" alt="Databases"/>
-</p>
-
-### Frontend & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,git,github,linux,ubuntu,docker,postman&perline=8" alt="Tools"/>
-</p>
-
-> **Primary stack:** Python • Django • PostgreSQL • JavaScript • REST APIs • Redis • WebSockets • Linux • Git
-
----
-
 # 🏆 Featured Projects
 
-> **Reusable project format:** Keep each project focused on the problem, architecture, impact and stack.  
-> Add a new project by copying one project block and changing only its details.
+> A reusable project showcase built around one consistent structure:
+> **What it is → What it does → Architecture → Stack → Contribution → Links**.
+>
+> To add a future project, copy one project block and replace only the
+> project-specific values.
 
 ---
 
-## 🔗 LinkUp — Professional Networking Platform
+<!-- ============================================================= -->
+<!-- PROJECT 01 — LINKUP                                           -->
+<!-- Copy this entire block for a new project.                     -->
+<!-- ============================================================= -->
 
-**A production-oriented full-stack networking platform focused on real-world architecture, communication and professional discovery.**
-
-### ✨ Highlights
-
-- 👤 Authentication, profiles and follow/unfollow
-- 📝 Posts with rich content, images and videos
-- ❤️ Likes, comments and sharing
-- 💬 Real-time private messaging
-- 💼 Job posting and application workflow
-- 🔍 Search and discovery
-- 🔔 Real-time and email notifications
-- ⚡ Redis caching and WebSocket communication
-- 🧩 Modular Django architecture
-
-### ⚙️ Stack
-
-`Django 5.2` `Django Channels` `PostgreSQL` `Redis` `Tailwind CSS` `JavaScript` `AJAX` `Gunicorn` `Whitenoise`
-
-**Scale:** 50,000+ lines of code • 300+ structured files
-
-<p>
-  <a href="https://github.com/Techhackontime999">
-    <img src="https://img.shields.io/badge/View%20Projects-181717?style=for-the-badge&logo=github" alt="View GitHub projects"/>
-  </a>
-</p>
-
----
-
-## 🏥 DrServe — Hospital & Patient Management System
-
-**A modular Django-based system designed to digitize hospital workflows and organize patients, doctors and appointments.**
-
-### ✨ Highlights
-
-- 👤 Digital patient registration
-- 🩺 Doctor profiles and specialization mapping
-- 📅 Appointment scheduling and tracking
-- 📝 Medical blog and awareness section
-- 🧩 Multi-app modular architecture
-- 🎨 Responsive interface with Tailwind CSS
-- 🔐 Structured database-backed records
-
-### ⚙️ Stack
-
-`Python` `Django 5.1.1` `HTML` `CSS` `Tailwind CSS` `JavaScript` `SQLite`
-
----
-
-## 🛒 ShopSeed — B2B & B2C E-Commerce Platform
-
-**A full-stack e-commerce platform designed around customer and seller workflows, reusable Django applications and scalable product management.**
-
-### ✨ Highlights
-
-- 🔐 Signup, login and password recovery
-- 👥 Customer and seller roles
-- 🏪 Seller dashboard
-- 📦 Product and category management
-- 🛒 Cart and checkout workflow
-- 🎟️ Coupons and discount logic
-- 👤 Profile management
-- ⚙️ Customized administration
-- 🖼️ Static and media management
-- 🧱 Reusable Django app architecture
-
-### ⚙️ Stack
-
-`Python` `Django` `JavaScript` `HTML` `CSS` `SQLite`
-
----
-
-# 📐 How I Think About Building Software
-
-```text
-Problem
-   ↓
-Understand the user
-   ↓
-Define requirements
-   ↓
-Design the architecture
-   ↓
-Model the data
-   ↓
-Build the backend
-   ↓
-Build the interface
-   ↓
-Test & secure
-   ↓
-Deploy
-   ↓
-Measure
-   ↓
-Iterate
-```
-
-> **The goal is not to make a project that merely works.  
-> The goal is to understand why it works, how it scales, and how it can become a better product.**
-
----
-
-# 🧠 Engineering Principles
-
-```text
-Clean Code
-    +
-Good Architecture
-    +
-Useful Products
-    +
-Continuous Learning
-    +
-Consistent Shipping
-    =
-Better Engineering
-```
-
-I try to optimize for:
-
-- **Maintainability** over unnecessary complexity
-- **Clear architecture** over quick hacks
-- **Real user problems** over feature overload
-- **Security** from the beginning
-- **Performance** where it matters
-- **Learning by building**
-- **Shipping → feedback → improvement**
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Techhackontime999&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" width="49%" alt="GitHub stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Techhackontime999&theme=transparent&hide_border=true" width="49%" alt="GitHub streak"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Techhackontime999&layout=compact&theme=transparent&hide_border=true" width="40%" alt="Top languages"/>
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Techhackontime999&theme=transparent" width="95%" alt="GitHub profile details"/>
-
-</div>
-
----
-
-# 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Techhackontime999/Techhackontime999/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" width="95%"/>
-
-</div>
-
-<!--
-If the snake animation is not configured in your repository, remove the image above.
-Do not keep a broken image in the final profile.
--->
-
----
-
-# 🤝 Open Source
-
-I enjoy collaborating on projects involving:
-
-- 🐍 Python / Django
-- 🔌 APIs & backend engineering
-- 🎨 Frontend improvements
-- ⚡ Performance optimization
-- 🔐 Security
-- 🧪 Testing & code quality
-- 📚 Documentation
-- 🤖 AI-powered applications
-
-### Want to collaborate?
-
-Open an issue, start a discussion or reach out through LinkedIn.
-
----
-
-# 📈 Current Direction
-
-```text
-Full-Stack Development
-        ↓
-Backend Engineering
-        ↓
-System Design
-        ↓
-Scalable Architecture
-        ↓
-AI + Software Products
-        ↓
-Product Engineering
-        ↓
-Technology Entrepreneurship
-```
-
----
-
-# 🌱 Beyond Code
-
-I believe strong engineering is not only about knowing frameworks.
-
-It's also about:
-
-**thinking clearly → communicating well → understanding users → designing systems → building consistently → learning from failure.**
-
-Every project is another opportunity to improve those skills.
-
----
-
-# 💬 Let's Build Something
+<details open>
+<summary><h2>🔗 LinkUp — Professional Networking Platform</h2></summary>
 
 <p align="center">
-
-<strong>Have an idea?</strong><br>
-Let's turn it into something real.
-
-<br><br>
-
-<a href="https://www.linkedin.com/in/mr-amit-kumar-bb8088296">
-  <img src="https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
-</a>
-<a href="mailto:amitkumarkh01012006@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Amit"/>
-</a>
-
+  <strong>Let’s enter social media — not to consume, but to create.</strong>
 </p>
+
+### 🎯 Overview
+
+**LinkUp** is a production-ready professional networking platform built with real-world architecture, scalability, and performance in mind.
+
+It brings together professional profiles, social content, real-time communication, job management, search, and notifications in one modular platform.
+
+### 📌 Project Snapshot
+
+| Area | Details |
+|---|---|
+| **Version** | `v1.2.0` |
+| **Backend** | Django `5.2` |
+| **Database** | PostgreSQL |
+| **Frontend** | Tailwind CSS + AJAX |
+| **Real-Time** | WebSockets + Django Channels + Redis |
+| **Deployment** | Gunicorn + Whitenoise |
+| **Architecture** | Scalable • Modular • Production-ready |
+| **Codebase** | `50,000+` lines of code |
+| **Structure** | `300+` structured files |
+
+### ✨ Core Features
+
+#### 👤 User & Identity
+- Authentication — Signup / Login
+- Profile management
+- Follow / Unfollow system
+
+#### 📝 Content & Social
+- Create posts with rich text
+- Image and video uploads
+- Likes, comments and sharing
+- Real-time social interactions
+
+#### 💬 Real-Time Communication
+- WhatsApp-style private messaging
+- WebSocket-based live communication
+- Django Channels integration
+- Redis-powered real-time infrastructure
+
+#### 💼 Jobs
+- Post jobs
+- Apply to jobs
+- Manage applications
+
+#### 🔍 Discovery
+- Global search
+- Smart filters
+
+#### 🔔 Notifications
+- Real-time notifications
+- Email notifications
+
+### 🏗️ Production Architecture
+
+- Secure authentication and permissions
+- Optimized database queries
+- Redis-based caching
+- WebSocket integration through Django Channels
+- Deployment-ready architecture for Heroku / AWS / VPS
+- Modular Django application structure
+- Separation of application responsibilities
+
+### 🛠️ Technology Stack
+
+**Backend**
+
+`Django 5.2` `Django Channels` `PostgreSQL` `Redis`
+
+**Frontend**
+
+`Tailwind CSS` `HTML` `CSS` `JavaScript` `AJAX`
+
+**Deployment**
+
+`Gunicorn` `Whitenoise`
+
+### 🤝 Open Source Contribution Areas
+
+- 🐍 Django backend features & APIs
+- 🎨 UI/UX improvements
+- ⚡ Performance & scalability
+- 🔐 Security improvements
+- 🧪 Testing & code quality
+- 📚 Documentation & onboarding
+
+### 👥 Who Can Contribute?
+
+- Students learning real-world development
+- Django / Python developers
+- Frontend developers
+- Open-source enthusiasts
+
+### 🚀 Why LinkUp?
+
+- Work on a production-oriented codebase
+- Learn architecture beyond tutorial projects
+- Build meaningful open-source contributions
+- Learn through peer collaboration
+- Turn ideas into real features
+
+### 🧠 What I Learned
+
+> Building LinkUp taught me how real social platforms are engineered — from database design to real-time communication and deployment.
+
+**Still learning. Still building. Still shipping. 🚀**
+
+### 🔗 Resources
+
+**GitHub Repository / Project:**  
+`https://lnkd.in/gu6-eb3a`
+
+**🎥 Demo:**  
+<a href="https://www.linkedin.com/posts/mr-amit-kumar-bb8088296_day15-buildinpublic-django-activity-7426269570849513472-iN7D?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEeO5LwBhtIyKEwjkpTvuw-f2H2_NmbkDxE">
+  <img src="https://img.shields.io/badge/Watch-Demo%20Video-blue?style=for-the-badge&logo=linkedin" alt="LinkUp demo"/>
+</a>
+
+</details>
 
 ---
 
-<div align="center">
+<!-- ============================================================= -->
+<!-- PROJECT 02 — DRSERVE                                           -->
+<!-- ============================================================= -->
 
-### 🚀 Build. Learn. Ship. Repeat.
+<details>
+<summary><h2>🏥 DrServe — Smart Hospital & Patient Management System</h2></summary>
 
-**Mr. Amit Kumar • Techhackontime999**
+### 🎯 Overview
 
-*Building scalable systems and turning ideas into products.*
+**DrServe** is a modular, scalable Hospital & Patient Management System built with Django.
 
-</div>
+The platform is designed to digitize hospital workflows, streamline appointments, and organize patients, doctors, and hospital operations efficiently.
 
-<!-- ========================= MAINTENANCE NOTES =========================
+### 🧩 Project Architecture
 
-QUICK UPDATE CHECKLIST
+The system follows a **multi-app modular Django architecture**:
 
-[ ] Update Current Focus
-[ ] Add your newest flagship project
-[ ] Replace placeholder project links with direct repository links
-[ ] Remove outdated technologies
-[ ] Update portfolio URL if changed
-[ ] Update email if changed
-[ ] Verify social links
-[ ] Verify contribution snake URL
-[ ] Keep project descriptions concise
-[ ] Remove claims that are no longer accurate
+| Module | Responsibility |
+|---|---|
+| `HospitalApp` | Core hospital logic |
+| `DRAppointment` | Appointment scheduling |
+| `DR_BLOG` | Medical blog & awareness |
+| `DR_Feature` | Additional hospital features |
+| `MediJeevan` | Extended healthcare functionality |
+| `DR_SERVE` | Main Django project configuration |
 
-PROJECT TEMPLATE
+This separation improves scalability, maintainability, and code organization.
 
-## 🚀 Project Name
+### ✨ Core Features
 
-One-line description of the problem/product.
+#### 👤 Patient Management
+- Digital patient registration
+- Unique patient records
+- Secure data storage
+- Patient information tracking
 
-### ✨ Highlights
-- Feature
-- Feature
-- Feature
+#### 🩺 Doctor Management
+- Doctor profile creation
+- Specialization-based mapping
+- Doctor assignment logic
 
-### ⚙️ Stack
-`Technology` `Technology` `Technology`
+#### 📅 Appointment Management
+- Appointment scheduling
+- Time-slot management
+- Patient-doctor linking
+- Appointment tracking
 
-[Repository](REPOSITORY_URL) • [Live Demo](DEMO_URL) • [Documentation](DOCS_URL)
+#### 📝 Blog & Information
+- Medical awareness posts
+- Health-related content publishing
 
-========================================================================= -->
+#### 🎨 Interface
+- Tailwind CSS integration
+- Responsive layouts
+- Clean Django template structure
+
+### 🛠️ Technology Stack
+
+**Backend**
+
+`Python` `Django 5.1.1`
+
+**Frontend**
+
+`HTML` `CSS` `Tailwind CSS` `JavaScript`
+
+**Database**
+
+`SQLite` — Development  
+Production-ready architecture for `PostgreSQL / MySQL`
+
+**Production**
+
+`Gunicorn` `Whitenoise` `Modular Django Apps`
+
+### 🔗 Resources
+
+**GitHub Repository / Project:**  
+`https://lnkd.in/gu6-eb3a`
+
+**🎥 Demo:**  
+<a href="https://www.linkedin.com/posts/mr-amit-kumar-bb8088296_this-is-my-hospital-patent-management-system-activity-7404671045393170432--C6y?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEeO5LwBhtIyKEwjkpTvuw-f2H2_NmbkDxE">
+  <img src="https://img.shields.io/badge/Watch-Demo%20Video-blue?style=for-the-badge&logo=linkedin" alt="DrServe demo"/>
+</a>
+
+</details>
+
+---
+
+<!-- ============================================================= -->
+<!-- PROJECT 03 — SHOPSEED                                          -->
+<!-- ============================================================= -->
+
+<details>
+<summary><h2>🛒 ShopSeed — B2B & B2C E-Commerce Platform</h2></summary>
+
+### 🎯 Overview
+
+**ShopSeed** is a full-stack e-commerce platform designed to support both customers and sellers.
+
+The project focuses on clean architecture, modular Django applications, reusable components, and scalable e-commerce workflows.
+
+### ✨ Core Features
+
+#### 🔐 Authentication
+- Signup
+- Login
+- Forgot password
+
+#### 👥 Role-Based Platform
+- Separate Customer and Seller registration
+- Seller dashboard
+- Seller profile management
+
+#### 🛍️ Product Management
+- Product listings with images
+- Categories
+- Rich product descriptions
+
+#### 🛒 Shopping Workflow
+- Session-based cart
+- Checkout flow
+- Order summary
+- Coupon and discount logic
+
+#### 👤 User Management
+- Profile management
+
+#### ⚙️ Administration
+- Customized admin panel
+- Inventory control
+- Content management
+
+#### 📂 Media & Static
+- Static files configuration
+- Media upload management
+
+### 🧱 Architecture
+
+- Modular Django applications
+- Clean and maintainable structure
+- Reusable components
+- Django MVT architecture
+- Separation of application responsibilities
+
+### 🧠 Django Concepts Used
+
+`Django Signals` `Context Processors` `Django Forms` `Media Handling`
+
+### 🛠️ Technology Stack
+
+**Backend**
+
+`Python` `Django`
+
+**Frontend**
+
+`HTML` `CSS` `JavaScript`
+
+**Database**
+
+`SQLite` — Development
+
+**Architecture**
+
+`Django MVT` `Reusable Apps`
+
+### 🔗 Resources
+
+**GitHub Repository / Project:**  
+`https://lnkd.in/gu6-eb3a`
+
+**🎥 Demo:**  
+<a href="https://www.linkedin.com/posts/mr-amit-kumar-bb8088296_django-python-webdevelopment-activity-7405807005019451393-Bure?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEeO5LwBhtIyKEwjkpTvuw-f2H2_NmbkDxE">
+  <img src="https://img.shields.io/badge/Watch-Demo%20Video-blue?style=for-the-badge&logo=linkedin" alt="ShopSeed demo"/>
+</a>
+
+</details>
+
+---
+
+# 🧰 Reusable Project Template
+
+> Copy this block whenever you add your next flagship project.
+
+<details>
+<summary><h2>🚀 [PROJECT NAME] — [SHORT DESCRIPTION]</h2></summary>
+
+### 🎯 Overview
+
+**[Project Name]** is a [one-sentence description of the product/problem].
+
+### 📌 Project Snapshot
+
+| Area | Details |
+|---|---|
+| **Status** | `Development / Production / Archived` |
+| **Version** | `vX.X.X` |
+| **Backend** | `[Backend]` |
+| **Frontend** | `[Frontend]` |
+| **Database** | `[Database]` |
+| **Real-Time** | `[Optional]` |
+| **Deployment** | `[Deployment]` |
+| **Architecture** | `[Architecture style]` |
+
+### ✨ Core Features
+
+- 🔐 [Feature]
+- 👤 [Feature]
+- ⚡ [Feature]
+- 🔍 [Feature]
+- 📊 [Feature]
+
+### 🏗️ Architecture
+
+- [Architecture decision]
+- [Module/service separation]
+- [Security/performance approach]
+- [Scalability approach]
+
+### 🛠️ Technology Stack
+
+`[Technology]` `[Technology]` `[Technology]`
+
+### 📈 Highlights / Impact
+
+- [Metric, scale, milestone or meaningful result]
+- [Technical achievement]
+- [User/business value]
+
+### 🤝 Contribution
+
+- [How others can contribute]
+- [Good first issues]
+- [Documentation / testing / UI / backend]
+
+### 🧠 What I Learned
+
+> [One strong engineering lesson from the project.]
+
+### 🔗 Links
+
+**Repository:** `[REPOSITORY_URL]`  
+**Live Demo:** `[DEMO_URL]`  
+**Documentation:** `[DOCS_URL]`
+
+</details>
+
+---
+
+## 📋 Project Addition Checklist
+
+When adding a new project, update only these fields:
+
+- [ ] Project name + one-line positioning
+- [ ] Status / version
+- [ ] Problem or purpose
+- [ ] 4–8 strongest features
+- [ ] Architecture
+- [ ] Technology stack
+- [ ] Measurable highlights, if available
+- [ ] Repository link
+- [ ] Live demo, if available
+- [ ] Demo video, if available
+- [ ] One engineering lesson
+
+> **Rule:** Don't turn the profile README into a full project README.  
+> The profile should **sell the project quickly** and send interested people to the repository for implementation details.
+
+---
+
+# 🧭 Project Portfolio Structure
+
+```text
+PROFILE README
+│
+├── 🏆 Featured Projects
+│   │
+│   ├── 🔗 LinkUp
+│   │   ├── Overview
+│   │   ├── Snapshot
+│   │   ├── Features
+│   │   ├── Architecture
+│   │   ├── Stack
+│   │   ├── Contribution
+│   │   └── Links
+│   │
+│   ├── 🏥 DrServe
+│   │   ├── Overview
+│   │   ├── Architecture
+│   │   ├── Features
+│   │   ├── Stack
+│   │   └── Links
+│   │
+│   └── 🛒 ShopSeed
+│       ├── Overview
+│       ├── Features
+│       ├── Architecture
+│       ├── Stack
+│       └── Links
+│
+└── 🚀 Future Projects
+    └── Copy Reusable Project Template
+```
+
+<!-- ============================================================= -->
+<!-- END PROJECT SHOWCASE                                          -->
+<!-- ============================================================= -->
