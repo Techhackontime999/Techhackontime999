@@ -240,31 +240,8 @@ Architecture: `HospitalApp` · `DRAppointment` · `DR_BLOG` · `DR_Feature` · `
 
 <a href="https://github.com/Techhackontime999/A-B-H-A-Y">Repository</a>
 
-</td>
-<td width="50%" valign="top">
+</td>      
 
-### LENS
-**API-first attendance system.** Headless attendance infrastructure designed for integrations, automations, and clean API contracts.
-
-`TypeScript`
-
-<a href="https://github.com/Techhackontime999/lens">Repository</a> ·
-<img src="https://img.shields.io/github/stars/Techhackontime999/lens?style=social" alt="Lens stars"/>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### OPEN-SOURCE STARTER LAB
-**Beginner-friendly open-source lab.** Good first issues for Git, GitHub, PRs, CI, TypeScript CLI, and maintainer practice — my on-ramp for new contributors.
-
-`TypeScript` `MIT` `CI` `Good First Issues`
-
-<a href="https://github.com/Techhackontime999/open-source-starter-lab">Repository</a> ·
-<img src="https://img.shields.io/github/stars/Techhackontime999/open-source-starter-lab?style=social" alt="Starter lab stars"/>
-
-</td>
 <td width="50%" valign="top">
 
 ### PRODUCTION CLIENT FLEET
