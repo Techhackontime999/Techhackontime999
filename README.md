@@ -384,7 +384,7 @@ Rule: show enough here to make someone interested — keep installation, API doc
   <img src="https://img.shields.io/badge/SHOP_SEED-shop--seed.onrender.com-10b981?style=flat-square&logo=googlechrome&logoColor=white" alt="Shop-Seed"/>
 </a>
 <a href="https://nadot-0v53.onrender.com">
-  <img src="https://img.shields.io/badge/NADOT-nadot-0v53.onrender.com-10b981?style=flat-square&logo=googlechrome&logoColor=white" alt="NADOT"/>
+  <img src="https://img.shields.io/badge/NADOT-nadot--0v53.onrender.com-10b981?style=flat-square&logo=googlechrome&logoColor=white" alt="NADOT"/>
 </a>
 
 <br><br>
