@@ -13,7 +13,8 @@
    · Role chips ............... edit the shield badge row under HERO
    · Accent color ............. find-replace 34d399 (light) / 10b981 (mid)
                                 / 134e4a (deep) across this file
-   · Projects ................. copy the PROJECT TEMPLATE block in FLAGSHIP BUILDS
+    · Projects ................. copy the PROJECT TEMPLATE block in FLAGSHIP BUILDS
+    · Live websites ............ copy/edit a badge line in LIVE WEBSITES
    · 3D graph theme ........... swap the <img> line in THE 3D ZONE
    · Deep-dive docs ........... expand/collapse the <details> blocks
 ================================================================================
@@ -54,9 +55,9 @@
 <img src="logo/neuralaurora.png" height="28" alt="Neural Aurora"/>
 <img src="logo/linkup.png" height="28" alt="LinkUp"/>
 
-<img src="https://img.shields.io/badge/BACKEND_%26_SYSTEM_DESIGN-27272a-a1a1aa?style=flat-square" alt="Backend and system design"/>
+<!-- <img src="https://img.shields.io/badge/BACKEND_%26_SYSTEM_DESIGN-27272a-a1a1aa?style=flat-square" alt="Backend and system design"/> -->
 <img src="logo/college.png" height="28" alt="College"/>
-<img src="https://img.shields.io/badge/BASED_IN-INDIA-27272a-a1a1aa" alt="Location"/>
+<!-- <img src="https://img.shields.io/badge/BASED_IN-INDIA-27272a-a1a1aa" alt="Location"/> -->
 
 </div>
 
@@ -350,6 +351,78 @@ Digital patient registration, specialization-based doctor management, time-slot 
 Rule: show enough here to make someone interested — keep installation, API docs, and folder structure inside the repository's own README.
 
 </details>
+
+---
+
+## LIVE WEBSITES
+
+<!-- LIVE SITES — to add a site, copy one <a> line, edit the badge label
+     (underscores = spaces, double-dash = literal dash) and the href. -->
+<div align="center">
+
+**PRODUCTS**
+
+<a href="https://neural-aurora.vercel.app">
+  <img src="https://img.shields.io/badge/NEURAL_AURORA-neural--aurora.vercel.app-10b981?style=flat-square&logo=googlechrome&logoColor=white" alt="Neural Aurora"/>
+</a>
+<a href="https://docs-neural-aurora.vercel.app">
+  <img src="https://img.shields.io/badge/NEURAL_AURORA_DOCS-docs--neural--aurora.vercel.app-134e4a?style=flat-square&logo=readthedocs&logoColor=white" alt="Neural Aurora Docs"/>
+</a>
+<a href="https://cloud-neural-aurora.vercel.app">
+  <img src="https://img.shields.io/badge/NEURAL_AURORA_CLOUD-cloud--neural--aurora.vercel.app-134e4a?style=flat-square&logo=googlecloud&logoColor=white" alt="Neural Aurora Cloud"/>
+</a>
+<a href="https://crm-neural-aurora.vercel.app">
+  <img src="https://img.shields.io/badge/NEURAL_AURORA_CRM-crm--neural--aurora.vercel.app-134e4a?style=flat-square&logo=salesforce&logoColor=white" alt="Neural Aurora CRM"/>
+</a>
+<a href="https://community-neural-aurora.vercel.app">
+  <img src="https://img.shields.io/badge/NEURAL_AURORA_COMMUNITY-community--neural--aurora.vercel.app-134e4a?style=flat-square&logo=discourse&logoColor=white" alt="Neural Aurora Community"/>
+</a>
+<a href="https://linkup.onrender.com">
+  <img src="https://img.shields.io/badge/LINKUP-linkup.onrender.com-10b981?style=flat-square&logo=googlechrome&logoColor=white" alt="LinkUp"/>
+</a>
+<a href="https://shop-seed.onrender.com">
+  <img src="https://img.shields.io/badge/SHOP_SEED-shop--seed.onrender.com-10b981?style=flat-square&logo=googlechrome&logoColor=white" alt="Shop-Seed"/>
+</a>
+<a href="https://nadot.onrender.com">
+  <img src="https://img.shields.io/badge/NADOT-nadot.onrender.com-10b981?style=flat-square&logo=googlechrome&logoColor=white" alt="NADOT"/>
+</a>
+
+<br><br>
+
+**CLIENT DEPLOYMENTS — hospitals & clinics in production**
+
+<a href="https://maamundeshwari-childrenhospital.vercel.app">
+  <img src="https://img.shields.io/badge/MAA_MUNDESHWARI_CHILDREN_HOSPITAL-maamundeshwari--childrenhospital.vercel.app-134e4a?style=flat-square&logo=googlechrome&logoColor=white" alt="Maa Mundeshwari Children Hospital"/>
+</a>
+<a href="https://vkglobalhospital.vercel.app">
+  <img src="https://img.shields.io/badge/VK_GLOBAL_HOSPITAL-vkglobalhospital.vercel.app-134e4a?style=flat-square&logo=googlechrome&logoColor=white" alt="VK Global Hospital"/>
+</a>
+<a href="https://cityhospitalbuxar.vercel.app">
+  <img src="https://img.shields.io/badge/CITY_HOSPITAL_BUXAR-cityhospitalbuxar.vercel.app-134e4a?style=flat-square&logo=googlechrome&logoColor=white" alt="City Hospital Buxar"/>
+</a>
+<a href="https://maasharda-sanjeevanihospital.vercel.app">
+  <img src="https://img.shields.io/badge/MAA_SHARDA_SANJEEVANI_HOSPITAL-maasharda--sanjeevanihospital.vercel.app-134e4a?style=flat-square&logo=googlechrome&logoColor=white" alt="Maa Sharda Sanjeevani Hospital"/>
+</a>
+<a href="https://sabitkhidmathospital.vercel.app">
+  <img src="https://img.shields.io/badge/SABIT_KHIDMAT_HOSPITAL-sabitkhidmathospital.vercel.app-134e4a?style=flat-square&logo=googlechrome&logoColor=white" alt="Sabit Khidmat Hospital"/>
+</a>
+<a href="https://mohiniwomenscareclinic.vercel.app">
+  <img src="https://img.shields.io/badge/MOHINI_WOMEN'S_CARE_CLINIC-mohiniwomenscareclinic.vercel.app-134e4a?style=flat-square&logo=googlechrome&logoColor=white" alt="Mohini Women's Care Clinic"/>
+</a>
+<a href="https://rashmimaternityclinic.vercel.app">
+  <img src="https://img.shields.io/badge/RASHMI_MATERNITY_CLINIC-rashmimaternityclinic.vercel.app-134e4a?style=flat-square&logo=googlechrome&logoColor=white" alt="Rashmi Maternity Clinic"/>
+</a>
+<a href="https://sahebmedical.vercel.app">
+  <img src="https://img.shields.io/badge/SAHEB_MEDICAL-sahebmedical.vercel.app-134e4a?style=flat-square&logo=googlechrome&logoColor=white" alt="Saheb Medical"/>
+</a>
+<a href="https://drtiwarimedicalclinic.vercel.app">
+  <img src="https://img.shields.io/badge/DR_TIWARI_MEDICAL_CLINIC-drtiwarimedicalclinic.vercel.app-134e4a?style=flat-square&logo=googlechrome&logoColor=white" alt="Dr Tiwari Medical Clinic"/>
+</a>
+<a href="https://drabhishekhclinic.vercel.app">
+  <img src="https://img.shields.io/badge/DR_ABHISHEK_KUMAR_CLINIC-drabhishekhclinic.vercel.app-134e4a?style=flat-square&logo=googlechrome&logoColor=white" alt="Dr Abhishek Kumar Clinic"/>
+</a>
+
+</div>
 
 ---
 
