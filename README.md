@@ -50,11 +50,12 @@
 
 <!-- ROLE CHIPS — edit text/colors freely -->
 <img src="https://img.shields.io/badge/HE%2FHIM-27272a?style=flat-square" alt="Pronouns"/>
-<img src="logo/aws.jpg" height="28" alt="AWS SBG role"/>
-<img src="logo/shop-seed.jpeg" height="28" alt="Shop-Seed founder"/>
-<img src="logo/neuralaurora.png" height="28" alt="Neural Aurora"/>
-<img src="logo/linkup.png" height="28" alt="LinkUp"/>
-
+<a href="https://www.credly.com/badges/098fcba8-cba4-465b-b959-cfe87d2684fe/linked_in?t=tk4l9d" ><img src="logo/aws.jpg" height="28" alt="AWS SBG role"/></a>
+<a href="https://shop-seed.onrender.com" ><img src="logo/shop-seed.jpeg" height="28" alt="Shop-Seed founder"/></a>
+<a href="https://neural-aurora.vercel.app"><img src="logo/neuralaurora.png" height="28" alt="Neural Aurora"/> </a>
+<a href="https://linkup.onrender.com" ><img src="logo/linkup.png" height="28" alt="LinkUp"/> </a>
+<a href="https://docs-neural-aurora.vercel.app"><img src="logo/neuralaurora.png" height="28" alt="Neural Aurora Docs"/> </a>
+<a href="https://crm-neural-aurora.vercel.app"><img src="logo/neuralaurora.png" height="28" alt="Neural Aurora CRM"/> </a>
 <!-- <img src="https://img.shields.io/badge/BACKEND_%26_SYSTEM_DESIGN-27272a-a1a1aa?style=flat-square" alt="Backend and system design"/> -->
 <img src="logo/college.png" height="28" alt="College"/>
 <!-- <img src="https://img.shields.io/badge/BASED_IN-INDIA-27272a-a1a1aa" alt="Location"/> -->
