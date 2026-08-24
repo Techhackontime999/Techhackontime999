@@ -49,11 +49,13 @@
 
 <!-- ROLE CHIPS — edit text/colors freely -->
 <img src="https://img.shields.io/badge/HE%2FHIM-27272a?style=flat-square" alt="Pronouns"/>
-<img src="https://img.shields.io/badge/CO--TECHNICAL_LEAD-%40_AWS_SBG_%C2%B7_GEC_BUXAR-059669-18181b?style=flat-square" alt="AWS SBG role"/>
-<img src="https://img.shields.io/badge/FOUNDER-SHOP_SEED-059669-18181b?style=flat-square" alt="Shop-Seed founder"/>
-<img src="https://img.shields.io/badge/BUILDER-NEURAL_AURORA_%C2%B7_LINKUP-059669-18181b?style=flat-square" alt="Product builder"/>
+<img src="logo/aws.jpg" height="28" alt="AWS SBG role"/>
+<img src="logo/shop-seed.jpeg" height="28" alt="Shop-Seed founder"/>
+<img src="logo/neuralaurora.png" height="28" alt="Neural Aurora"/>
+<img src="logo/linkup.png" height="28" alt="LinkUp"/>
+
 <img src="https://img.shields.io/badge/BACKEND_%26_SYSTEM_DESIGN-27272a-a1a1aa?style=flat-square" alt="Backend and system design"/>
-<img src="https://img.shields.io/badge/B.TECH_CSE-GOVT._ENGINEERING_COLLEGE,_BUXAR-27272a-a1a1aa" alt="College"/>
+<img src="logo/college.png" height="28" alt="College"/>
 <img src="https://img.shields.io/badge/BASED_IN-INDIA-27272a-a1a1aa" alt="Location"/>
 
 </div>
@@ -518,6 +520,8 @@ If you're building something meaningful — let's build together.
    · resume.pdf ............ one-click download in RESUME & BUSINESS CARD
    · business_card.png ..... card preview + download in same section
    · portfolio_image.png ... Neural Aurora preview in MY PORTFOLIO
+   · logo/ ................. brand logos used as role chips under HERO
+                              (aws, college, shop-seed, neuralaurora, linkup)
    · LGTM/ ................. reaction images for PR reviews (see bin/make_lgtm.sh
                              and bin/change-border.py to generate more)
  CLAIMS
