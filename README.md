@@ -356,7 +356,7 @@ Rule: show enough here to make someone interested — keep installation, API doc
   <img src="https://img.shields.io/badge/NEURAL_AURORA_COMMUNITY-community--neural--aurora.vercel.app-134e4a?style=flat-square&logo=discourse&logoColor=white" alt="Neural Aurora Community"/>
 </a>
 <a href="https://linkup-k111.onrender.com">
-  <img src="https://img.shields.io/badge/LINKUP-linkup.onrender.com-10b981?style=flat-square&logo=googlechrome&logoColor=white" alt="LinkUp"/>
+  <img src="https://img.shields.io/badge/LINKUP-linkup-k111.onrender.com-10b981?style=flat-square&logo=googlechrome&logoColor=white" alt="LinkUp"/>
 </a>
 <a href="https://shop-seed.onrender.com">
   <img src="https://img.shields.io/badge/SHOP_SEED-shop--seed.onrender.com-10b981?style=flat-square&logo=googlechrome&logoColor=white" alt="Shop-Seed"/>
